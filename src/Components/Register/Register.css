@@ -1,0 +1,24 @@
+.register {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .register h1 {
+    margin-bottom: 16px;
+  }
+  
+  .register .MuiTextField-root {
+    margin: 8px 0;
+  }
+  
+  .register .MuiButton-root {
+    margin-top: 16px;
+  }
+  
+  .register .signin-link {
+    margin-top: 16px;
+  }
+  
